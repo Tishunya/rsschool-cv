@@ -1,4 +1,5 @@
 #Tanya Shymko
+![img] (E:\rsschool-cv\image_DSC0562-Edit.jpg)
 ##Contacts
 *tel:+380671054130
 *discord: ShymkoTanya (@Tishunya)
@@ -14,15 +15,11 @@
 \*Teamwork
 
 ```javascript
-const func = (num) => {
-  if (num > 0) {
-    return num - 1;
-  }
-  return num + 1;
-};
+kod;
 ```
 
 ##Work Experience
+###Company "Moltorg-logistic"
 
 ##Education
 ###Kremenchug Polytechnic University
