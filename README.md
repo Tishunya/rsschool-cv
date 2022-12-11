@@ -1,1 +1,1 @@
-https://Tishunya.github.io/rsschool-cv/cv
+https://Tishunya.github.io/rsschool-cv/
