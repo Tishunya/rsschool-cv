@@ -1,7 +1,7 @@
 #Tanya Shymko
 ![img] (E:\rsschool-cv\image_DSC0562-Edit.jpg)
 ##Contacts
-*tel:+380671054130
+*tel:+380663489174
 *discord: ShymkoTanya (@Tishunya)
 \*e-mail: shymkotatyana@gmail.com
 ##About
